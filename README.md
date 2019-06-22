@@ -1,4 +1,4 @@
-# flash-game-bs-apollo
+# Apollo (Battlestar Galactica)
 Top-down space shooter inspired by the Battlestar Galactica reimagined series
 
 This is a game I've built in Flash back in 2008, because I felt like building a fun action game set in space, and the main inspiration I had at the time was the popular TV series Battlestar Galactica (reimagined).
