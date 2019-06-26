@@ -25,9 +25,9 @@ Every time you kill an enemy, there's a chance (based on difficulty setting) tha
 
 ### Enemies
 
-1. Common Cylon Fighter - The greyish cylon fighter is the most common enemy in the game, and also the weakest. It is moderately agile with a moderate fire-rate.
-2. Ace Cylon Fighter - A bigger and reddish cylon fighter. It is faster and more agile than the common Cylon fighter, and has a higher fire rate. It is the most formidable dog-fighting enemy, but its larger hull makes it slightly easier to hit than the common Cylon fighter.
-3. Cylon Transport - This is a big, hulking Cylon fighter with a single front-facing cannon. It is the least agile of the enemies and it's a huge target, but it has the most formidable hull protection and high firing rate (once you get into its range).
+1. Common Cylon Raider - The greyish cylon raider is the most common enemy in the game, and also the weakest. It is moderately agile with a moderate fire-rate.
+2. Ace Cylon Raider - A bigger and reddish cylon raider. It is faster and more agile than the common Cylon raider, and has a higher fire rate. It is the most formidable dog-fighting enemy, but its larger hull makes it slightly easier to hit than the common Cylon fighter.
+3. Cylon Transport - This is a big, hulking Cylon shuttle with a single front-facing cannon. It is the least agile of the enemies and it's a huge target, but it has the most formidable hull protection and high firing rate (once you get into its range).
 
 ### Mission Area
 
